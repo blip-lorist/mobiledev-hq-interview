@@ -7,6 +7,8 @@ int multiply(int j, int product[], int index);
 /* test factorial function */
 main()
 {
+     printf("Test cases: \n\n");
+
      factorial(0);
      printf("is the factorial of 0.\n\n");
 
@@ -25,7 +27,6 @@ main()
      factorial(100);
      printf("\nis the factorial of 100.\n\n");
 
-    factorial(8);
 }
 
 /* define the factorial function */
