@@ -1,3 +1,7 @@
+Install test dependencies from root directory:  
+`gem bundle install`
+`bundle`
+
 # Ruby Factorial
 - Use `rspec` from the /factorials directory to view tests
 
