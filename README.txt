@@ -18,7 +18,7 @@ Currently, solve.rb loads the CSV into a hash map for processing, following the 
 
 I didn't get as far as I wanted to with the sudoku exercise - I spent a bit too long working on the C factorial. 
 
-However, I am pretty proud of the foundation I made with [https://github.com/lorainekv/mdhq-interview/blob/master/sudoku/sudoku_board.rb](sudoku_board.rb)
+However, I am pretty proud of the foundation I made with [sudoku_board.rb](https://github.com/lorainekv/mdhq-interview/blob/master/sudoku/sudoku_board.rb)
 
 I think that hashes used by @board and @grid_lookup would help down the road with manipulating board elements. 
 
